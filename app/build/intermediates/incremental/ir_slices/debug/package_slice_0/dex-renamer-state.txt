@@ -1,0 +1,4 @@
+#Sun Jul 21 19:25:18 IST 2019
+base.0=/home/cg/Desktop/LCO/Android/githubapi/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
